@@ -14,7 +14,7 @@ This repository contains homework assignments completed throughout the course, o
 | Homework 3 | Building an Agent |
 
 
-Module 2: LLM Architecture
+### Module 2: LLM Architecture
 | Assignment | Topic |
 |---|---|
 | Homework 1 | Optimization in PyTorch — Gradient Descent, SGD, Numerical Stability, and L1 Regularization |
