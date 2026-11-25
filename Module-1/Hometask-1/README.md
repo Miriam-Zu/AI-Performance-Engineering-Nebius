@@ -79,14 +79,15 @@ Few-shot prompting is used to clarify the grounding criteria and distinguish uns
 
 | Concept | What it covers |
 |---|---|
+| Tokenization | Representing text as tokens |
 | LLM inference | Next-token prediction and text generation |
-| Prompt engineering | Controlling model behavior through instructions and examples |
 | Hallucination | Generation of unsupported or incorrect information |
+| Prompt engineering | Controlling model behavior through instructions and examples |
+| Few-shot prompting | Guiding model behavior through examples |
+| Chain-of-thought prompting | Guiding model behavior by enforcing step-by-step reasoning before producing a final answer |
 | Temperature | Controlling randomness in token sampling |
 | Top-p sampling | Nucleus sampling and candidate token selection |
-| Tokenization | Representing text as tokens |
 | LLM-as-a-Judge | Using an LLM to evaluate another LLM's output |
-| Few-shot prompting | Guiding model behavior through examples |
 | Structured outputs | Enforcing machine-readable response formats |
 | Human-in-the-loop | Combining automated and human evaluation |
 
